@@ -4,6 +4,21 @@
     margin: auto 0 auto 20px;
 }
 
+.count {
+  border-radius: 30px;
+  margin: 20px auto 10px auto;
+  align-items: center;
+  justify-items: center;
+}
+
+.count p {
+    text-align: center;
+}
+
+#counter{
+    color: #008fff;
+}
+
 .description{
     margin: -10px;
 }
