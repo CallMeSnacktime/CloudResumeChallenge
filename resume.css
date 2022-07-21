@@ -1,0 +1,131 @@
+
+
+.contact {
+    margin: auto 0 auto 20px;
+}
+
+.description{
+    margin: -10px;
+}
+
+.date{
+    justify-self: end;
+}
+
+div {
+    margin: 5%;
+}
+
+div.box {
+    border: solid #008fff 1px;
+    background-color : rgba(21, 76, 206, 0.1);
+    padding: 40px;
+    margin: 5% 20%;
+}
+
+div.piece {
+    margin: 5px 50px 10px 50px;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    color: #00f3ff;
+}
+
+h2.name {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+h5.job{
+    margin-top:  -5px;
+    margin-bottom:  10px;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 5px;
+}
+
+.job {
+    font-size: 20px;
+    margin: 0px auto 10px auto
+}
+
+.name {
+    font-size: 60px;
+    margin: -10px auto 0 auto;
+}
+
+p {
+    color: black;
+}
+
+.project {
+    margin: 5px 45px 20px;
+
+}
+
+.project p {
+    margin: 2px auto;
+}
+
+section {
+    margin: 40px 0 0 0;
+    justify-self: center;
+    align-self: center;
+}
+
+section p {
+    margin: 0;
+}
+
+
+section.me h2 {
+    font-size: 35px;
+
+}
+
+.subtitle {
+    text-align: center;
+    margin: 10px 0 0;
+}
+
+table{
+    margin: 10px auto;
+}
+
+td {
+    text-align: center;
+    padding: 0 20px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.title a{
+    font-weight: normal;
+}
+
+tr {
+    margin: auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+
+.school{
+    margin-top: 10px;
+}
+
+.school p {
+   margin: 0 0;
+}
+
+.work {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 0 0;
+}
